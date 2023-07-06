@@ -1,5 +1,5 @@
 {
-  "name": "@vue/compiler-sfc",
+  "name": "@jeanpierrecarvalho/compiler-sfc",
   "version": "1.0.2",
   "description": "compiler-sfc for Vue 2",
   "main": "dist/compiler-sfc.js",
