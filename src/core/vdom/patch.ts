@@ -79,7 +79,7 @@ export function createPatchFunction(backend) {
   }
 
   function emptyNodeAt(elm) {
-    return new VNode(nodeOps.tagName(elm).toLowerCase(), {}, [], undefined, elm)
+    return new VNode(nodeOps.tagName(elm)?.toLowerCase(), {}, [], undefined, elm)
   }
 
   function createRmCb(childElm, listeners) {
