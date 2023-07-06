@@ -1,3 +1,7 @@
+## [1.0.3](https://github.com/jeanpierrecarvalho/vue/compare/v2.7.16...v1.0.3) (2023-07-06)
+
+
+
 ## [1.0.2](https://github.com/jeanpierrecarvalho/vue/compare/v2.7.16...v1.0.2) (2023-07-06)
 
 
