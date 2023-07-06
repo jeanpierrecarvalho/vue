@@ -1,5 +1,5 @@
 {
-  "name": "vue-template-compiler",
+  "name": "@jeanpierrecarvalho/vue-template-compiler",
   "version": "1.0.3",
   "description": "template compiler for Vue 2.0",
   "main": "index.js",
